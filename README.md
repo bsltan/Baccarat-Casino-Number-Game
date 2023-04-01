@@ -1,8 +1,8 @@
 # Casino number game
 
 BACCARAT - Casino Number Game
-Third project by KEVIN VILLANIA
-villaniakevin07@gmail.com
+Third project by KEVIN VILLANIA & Bryan Sultan
+villaniakevin07@gmail.com & brynsutan@gmail.com
 
 Player chooses between two sides either
 'banker' or 'player'. After drawing two cards the one
