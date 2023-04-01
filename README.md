@@ -1,7 +1,7 @@
 # Casino number game
 
 BACCARAT - Casino Number Game
-Third project by KEVIN VILLANIA & Bryan Sultan
+Third project by Kevin Villania & Bryan Sultan
 villaniakevin07@gmail.com & brynsutan@gmail.com
 
 Player chooses between two sides either
